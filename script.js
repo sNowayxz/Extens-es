@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════
-   Portal da Assessoria Acadêmica — script.js
+   Portal das Extensões — script.js
    ═══════════════════════════════════════════ */
 
 document.addEventListener('DOMContentLoaded', function () {
