@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Generate real QR codes
       new QRCode(document.getElementById('qr1-code'), {
-        text: 'https://wa.me/5543999066267',
+        text: 'https://wa.me/5543999066267?text=Tenho%20interesse%20em%20extens%C3%B5es',
         width: 136,
         height: 136,
         colorDark: '#0a1628',
@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function () {
       });
 
       new QRCode(document.getElementById('qr2-code'), {
-        text: 'https://wa.me/5518981591286',
+        text: 'https://wa.me/5518981591286?text=Tenho%20interesse%20em%20extens%C3%B5es',
         width: 136,
         height: 136,
         colorDark: '#0a1628',
